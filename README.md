@@ -1,4 +1,4 @@
-#　はじめてのGitHub
+# はじめてのGitHub
 kuroshizu 東恩納永汰
 https://github.com/kuroshizu/Sample
 ## ローカルリポジトリ
